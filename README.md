@@ -22,6 +22,6 @@ Installation
 The meaning of it
 -----------------
 
-Neither Apple or Microsoft or any Linux distribution have it.
 This is simply colour therapy, which we need in these difficult times.
 Especially now in the northern hemisphere where it is winter.
+It's at least better than the standard WIndows 11 desktop background.
