@@ -10,3 +10,10 @@ I just tweaked it a little bit.
 It will cause your iPad to heat up during prolonged use.
 At the same time, it also demonstrates the incredible performance of the graphics chip inside.
 I would advise against prolonged use of this software without the power supply connected, as the battery life may suffer. 
+
+Installation
+------------
+
+1. Install Pythonista on your IPad
+2. Create a new .py file in the App and copy this script into it.
+3. Hit "run" and get blown away.
