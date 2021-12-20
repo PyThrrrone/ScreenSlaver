@@ -18,3 +18,10 @@ Installation
 1. Install Pythonista on your IPad
 2. Create a new .py file in the App and copy this script into it.
 3. Hit "run" and get blown away.
+
+The meaning of it
+-----------------
+
+Neither Apple or Microsoft or any Linux distribution have it.
+This is simply colour therapy, which we need in these difficult times.
+Especially now in the northern hemisphere where it is winter.
