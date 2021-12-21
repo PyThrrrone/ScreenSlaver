@@ -1,5 +1,6 @@
 # ScreenSlaver
 Preview output here: https://www.shadertoy.com/view/7ldXDs
+The screenshot below appears at 3 min 22 sec.
 
 **ScreenSlaver.py** turns your IPad into a Screen-Slaver (remember Incredibles II from PIXAR) with 1 simple Pythonista script.
 
