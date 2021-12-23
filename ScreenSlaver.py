@@ -73,8 +73,8 @@ class MyScene (scene.Scene):
         self.sprite.position = self.size/2
         
     def did_change_size(self):
-      self.sprite.size = ui.get_screen_size()
-      self.sprite.position = self.size/2
+        self.sprite.size = ui.get_screen_size()
+        self.sprite.position = self.size/2
     
     def touch_began(self, touch):
         self.set_touch_position(touch)
