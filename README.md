@@ -16,7 +16,7 @@ I would advise against prolonged use of this software without the power supply c
 Installation
 ------------
 
-1. Install Pythonista on your IPad -> https://apps.apple.com/de/app/pythonista-3/
+1. Install Pythonista on your IPad -> https://apps.apple.com/de/app/pythonista-3/id1085978097
 2. Create a new .py file in the App and copy this script into it.
 3. Hit "run" and get blown away.
 
