@@ -11,8 +11,7 @@ I just tweaked it a little bit.
 
 It will cause your iPad to heat up during prolonged use.
 At the same time, it also demonstrates the incredible performance of the graphics chip inside.
-I would advise against prolonged use of this software without the power supply connected, as the battery life may suffer. 
-However, I would also recommend going to the nearest TV store and using Airplay to project this animation onto the largest TV available.
+I would advise against prolonged use of this software without the power supply connected, as the battery life may suffer.
 
 Installation
 ------------
