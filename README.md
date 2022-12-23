@@ -30,4 +30,4 @@ It's at least better than the standard WIndows 11 desktop background.
 Version 2
 ---------
 Cycle through 3 different parameter settings by tapping on the screen.
-Uncomment lines 204-207, and save a screenshot with every finger-tip.
+Uncomment lines 204-207, and save a screenshot with every finger-tap.
